@@ -7,7 +7,7 @@ read ip portaAlvo
 echo "Quantas portas serao batidas antes de tentar a conexao?"
 read numPorta
 echo "Digite a sequencia de portas para realizarmos as batidas:"
-echo "Exemplo: 22 80 1337 37897"
+echo "Exemplo: 22 80 1337 37897" #Edite com a sequencia de portas desejada
 read port1 port2 port3 port4
 
 #Inciando as batidas e teste de conexão
